@@ -10,5 +10,18 @@ By the time I uploaded the screenshots, I forgot to put them in the Github's REA
 
 ## Progress 2 Screenshots
 
-** Home Page **
-![image](https://github.com/user-attachments/assets/15687797-6f51-4c1c-91a2-331448117a7e)
+**Home Page**
+![image](https://github.com/user-attachments/assets/67f34ff5-98dd-4716-ae6f-4734879110ef)
+
+**Articles Page**
+![image](https://github.com/user-attachments/assets/b535c427-0045-4e7f-a6de-172fa6ecc4db)
+
+![image](https://github.com/user-attachments/assets/07751f1d-77c9-479e-883d-0d8abab617c0)
+
+**Forum Page**
+![image](https://github.com/user-attachments/assets/5dadd091-a645-47a8-9bef-6f3ba2c4ef47)
+
+**What to Watch Page**
+![image](https://github.com/user-attachments/assets/54fcdf7d-db17-4308-8565-f8a7b31a3f68)
+
+In progress 2, I've updated the functionality of the Articles page. However, the articles are still in a dummy form and there is also an error which shows that the logo on the top left corner isn't showing. I'm still working on it and hopefully they can be done in the next progress.
